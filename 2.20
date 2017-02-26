@@ -12,12 +12,12 @@ public class NumberTwenty {
 		//inpute balance and interest rate
 		System.out.print("Enter balance and interest rate (e.g. 4.5 for 4.5%): ");
 		double balance = input.nextDouble();
-		double InterestRate = input.nextDouble();
+		double interestRate = input.nextDouble();
 		
 		//calculate amount of interest
-		double Interest = (balance * (InterestRate / 1200));
+		double interest = (balance * (interestRate / 1200));
 		
-		System.out.println("The amount of interest is " + Interest);
+		System.out.println("The amount of interest is " + interest);
 
 	}
 
