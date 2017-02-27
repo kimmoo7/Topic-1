@@ -1,2 +1,2 @@
-# Topic-1
-Assignments for topic 1 of CST105
+# CST-105
+Assignments for Programming I, CST105. I messed up and called the repository "Topic-1" but it will have my assignments for the whole class.
